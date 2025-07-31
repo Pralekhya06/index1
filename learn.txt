@@ -1,5 +1,5 @@
-Command	Description
-git init	Start a new Git repo
+Command        -	Description
+git init	-       Start a new Git repo
 git status	See what’s going on (tracked/untracked/modified)
 git add <file>	Track or stage a file
 git add .	Add all changed files
