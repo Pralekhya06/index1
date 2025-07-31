@@ -1,0 +1,20 @@
+Command	Description
+git init	Start a new Git repo
+git status	See what’s going on (tracked/untracked/modified)
+git add <file>	Track or stage a file
+git add .	Add all changed files
+git commit -m "msg"	Save a snapshot of changes
+git log	Show history of commits
+git diff	Show changes before committing
+git clone <url>	Copy a repo from GitHub
+git remote -v	Show connected remotes
+git push	Upload changes to GitHub
+git pull	Download changes from GitHub
+git branch	List branches
+git checkout -b <branch>	Create and switch to a branch
+git merge <branch>	Merge changes from another branch
+git stash	Temporarily save changes
+git reset	Undo changes (advanced)
+git rm <file>	Remove file from repo
+git commit --amend	Modify the last commit
+
