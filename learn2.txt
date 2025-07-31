@@ -1,0 +1,24 @@
+1. Use it with Practice
+Set up mini projects and walk through the commands:
+
+Make changes
+
+git status
+
+Stage them
+
+git add .
+
+Save them
+
+git commit -m "message"
+
+Push them to GitHub
+
+2. Focus on Action → Git Command
+What You Want	Git Command
+Start a repo	git init
+Save file changes	git add + git commit
+Go back in time	git log
+Fix last mistake	git commit --amend
+Try something without committing	git stash
